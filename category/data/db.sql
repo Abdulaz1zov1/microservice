@@ -1,7 +1,0 @@
-CREATE DATABASE user_service;
-
-CREATE TABLE user (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(40) NOT NULL
-);
-
